@@ -1,5 +1,3 @@
-README for GFG-daily-challenge
-
 ## Overview
 GFG-daily-challenge is a repository dedicated to solving daily programming challenges from GeeksforGeeks. Each challenge provides an opportunity to enhance problem-solving skills, practice coding in different languages, and learn new algorithms and data structures.
 
